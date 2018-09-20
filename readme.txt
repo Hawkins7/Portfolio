@@ -15,3 +15,6 @@
   },
   "devDependencies": {}
 }
+
+//bash to initiate bash in the console, same for node. 
+//Run sass when compiling and editing
