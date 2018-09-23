@@ -18,3 +18,5 @@
 
 //bash to initiate bash in the console, same for node. 
 //Run sass when compiling and editing
+
+if sass isnt running use npm run sass
